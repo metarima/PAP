@@ -1,6 +1,6 @@
-# PAP – PHP Online Store
+# PHP Online Store
 
-Final project (PAP – *Prova de Aptidão Profissional*) for my Professional Course in IT Systems Management and Programming, 2025.
+A class project from my Professional Course in IT Systems Management and Programming (2025), written while learning server-side PHP.
 
 An online store built from scratch in plain PHP using a small MVC structure, without a framework.
 
@@ -39,4 +39,4 @@ public/         Web root (index.php, admin/, assets/)
 
 ---
 
-*This was my first full-stack project. You can find my current work, built with Next.js, TypeScript and AI, at [github.com/metarima](https://github.com/metarima).*
+*An early learning project. My final course project (PAP) was [FastTable](https://github.com/metarima/FastTable), a restaurant reservation platform built with Next.js and TypeScript.*
