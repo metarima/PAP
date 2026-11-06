@@ -1,0 +1,13 @@
+# Local configuration and secrets
+config.php
+.env
+.env.*
+
+# Composer dependencies (install with `composer install`)
+/vendor/
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
